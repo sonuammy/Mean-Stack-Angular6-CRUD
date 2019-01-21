@@ -5,9 +5,13 @@ This source codes if part of [MEAN Stack Angular 6 CRUD Web Application](https:/
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
 ## steps to run application
 git clone https://github.com/sonuammy/Mean-Stack-Angular6-CRUD.gitcd 
-cd Mean-Stack-Angular6-CRUD 
+
+cd Mean-Stack-Angular6-CRUD
+
 Go to project folder & run cmd-> npm install
+
 then npm start
+
 open browser http://localhost:3000/
 
 ## Development server
